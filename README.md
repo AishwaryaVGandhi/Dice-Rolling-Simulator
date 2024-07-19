@@ -1,3 +1,5 @@
+𝐃𝐢𝐜𝐞 𝐑𝐨𝐥𝐥𝐢𝐧𝐠 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐨𝐫
+
 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
 
 This is a simple Dice Rolling Simulator implemented in Python. The program simulates the rolling of a six-sided die, displaying the result using ASCII art.
